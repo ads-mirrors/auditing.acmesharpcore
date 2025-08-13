@@ -1,3 +1,4 @@
 
 ## enforce common line ending
 * text=auto.github/ merge=ours
+.github/ merge=ours
